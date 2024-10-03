@@ -4,7 +4,7 @@ const sobreSkill = [
                     '<p>HTML</p> <br> <p>É uma linguagem de marcação utilizada na construção de páginas na Web.</p> <br>',
                     '<p>CSS</p> <br> <p>É um mecanismo para adicionar estilo a um documento web.</p> <br>',
                     '<p>JavaScript</p> <br> <p>É uma linguagem de programação. Juntamente com HTML e CSS, é uma das três principais tecnologias da web.</p> <br>',
-                    '<p>ReactJS</p> <br> <p>O React é uma biblioteca JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.</p> <br>',
+                    '<p>PHP</p> <br> <p>PHP é uma linguagem de programação usada para desenvolvimento web, especialmente para criar sites dinâmicos e interagir com bancos de dados MySQL.</p> <br>',
                     '<p>C++</p> <br> <p>C++ é uma linguagem de programação eficiente e versátil, usada para criar sistemas, jogos e softwares de alta performance. Ela combina programação orientada a objetos com o poder do C.</p> <br>',
                     '<p>Node.Js</p> <br> <p>Node.js é um ambiente de execução JavaScript que permite executar aplicações desenvolvidas com a linguagem de forma autônoma, sem depender de um navegador. Permite criar APIs, Rotas e trabalhar com outras tecnologias, como Express.js</p> <br>',
                     '<p>Git</p> <br> <p>É um sistema de controle de versões distribuído, usado principalmente no desenvolvimento de software.</p> <br>',
